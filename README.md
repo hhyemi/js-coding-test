@@ -1,2 +1,2 @@
-# JavaScript Algorithm
-study leecode :eyes::wavy_dash: 
+# JavaScript Coding Test
+study leecode :eyes::wavy_dash: !
