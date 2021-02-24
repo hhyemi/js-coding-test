@@ -5,16 +5,6 @@
 
 ### :heavy_check_mark: 내가 푼 답안
 
-#### arr.indexOf(searchValue, fromIndex) : index 찾기
-- searchValue : 찾으려는 문자열
-- fromIndex : 문자열에서 찾기 시작하는 위치를 나타내는 인덱스 값
-
-<br/>
-
-#### arr.includes(searchValue, fromIndex) : 포함여부 확인
-- searchValue : 찾으려는 문자열
-- fromIndex : 문자열에서 찾기 시작하는 위치를 나타내는 인덱스 값
-
 ```javascript
 /**
  * @param {number[]} nums
@@ -39,6 +29,17 @@ const twoSum = function(nums, target) {
 };
 
 ```
+
+#### arr.indexOf(searchValue, fromIndex) : index 찾기
+- searchValue : 찾으려는 문자열
+- fromIndex : 문자열에서 찾기 시작하는 위치를 나타내는 인덱스 값
+
+<br/>
+
+#### arr.includes(searchValue, fromIndex) : 포함여부 확인
+- searchValue : 찾으려는 문자열
+- fromIndex : 문자열에서 찾기 시작하는 위치를 나타내는 인덱스 값
+
 <hr/>
 
 ### :heavy_check_mark: 더 빠른 답안 
