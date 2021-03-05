@@ -1,3 +1,3 @@
 # JavaScript Coding Test
-study leecode :eyes::wavy_dash: !
+study :eyes::wavy_dash: !
 
